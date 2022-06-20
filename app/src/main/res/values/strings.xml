@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TBC_HomeWork_2</string>
+    <string name="required_number">Insert number [1-1000]</string>
+    <string name="button_name">Display</string>
 </resources>
